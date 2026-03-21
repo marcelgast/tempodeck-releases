@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0",
-  "release_notes": "Initial Flutter release of TempoDeck — professional metronome app rebuilt from the ground up.",
+  "version": "99.0.0",
+  "release_notes": "Test update dialog — this is a fake version to verify the update checker works correctly.",
   "pub_date": "2026-03-21T12:00:00Z",
   "platforms": {
     "macos": {
-      "download_url": "https://github.com/marcelgast/tempodeck-releases/releases/download/v2.0.0/TempoDeck-2.0.0.dmg"
+      "download_url": "https://gettempodeck.com"
     },
     "windows": {
-      "download_url": "https://github.com/marcelgast/tempodeck-releases/releases/download/v2.0.0/TempoDeck-2.0.0-setup.exe"
+      "download_url": "https://gettempodeck.com"
     }
   }
 }
